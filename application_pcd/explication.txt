@@ -1,0 +1,15 @@
+http://127.0.0.1:8000/accounts/login/ "l'interface de connexion username=jihene password=ahlempcd "
+------------------------------------------------------------------------------------------
+http://127.0.0.1:8000/upload/ " importer les sources de données et creer pour chaque utilisateur un dossier dans ../media pour conserver ses fichiers"
+----------------------------------------------------------------------------------------
+http://127.0.0.1:8000/Graphe/  " affichage de graphe de conversion , mais vous pouvez la tester, Comment ? vous allez entrer username de votre neo4j et votre password et cliquer sur le triangle et dans le textarea vous pouvez ecrire n'importe  quelle requete  et l'executer.
+ il y a l'affichage de graphe et tous le relations sous la forme de table et vous pouvez chercher la relation dans la table juste il faut le nom d'un noeud ou un attribut ou la valeur d'une attribut .
+----------------------------------------------------------------------------
+http://127.0.0.1:8000/requete/   "c'est l'interface de saisi de requetes et le bouton submit va executer le script missing.py et le resultat sera afficher , je mets une capture pour voir l'affichage de resultat de script"
+---------------------------------------------------------------------------
+http://127.0.0.1:8000/SchemaGraph/ "c'est l'interface de enriching schema graphe mais il va etre modifier cette interface et la partie how to use elle va etre tout changée " 
+----------------------------------------------------------------------------
+
+
+il y a des modifications dans l'application qui ne sont pas encore intégrées.
+
